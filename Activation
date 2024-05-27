@@ -1,0 +1,12 @@
+slmgr /dli----------status
+slmgr .vbs/dli--------status
+slmgr.vbs/dlv -----------Full Status
+slmgr /xpr ------license mode with version
+slmgr.vbs/xpr
+slmgr.vbs/upk-------uninstall product key
+slmgr.vbs/cpky----------Product Key Registry Clear
+slmgr.vbs/ipk (Product Key)
+slmgr.vbs/dli--status
+slmgr.vbs/ato -------Activation Status
+slmgr.vbs/atp ACTIVATIONID
+
